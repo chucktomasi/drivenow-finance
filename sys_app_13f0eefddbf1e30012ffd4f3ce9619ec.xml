@@ -24,14 +24,14 @@
         <sys_created_by>brad.tilton</sys_created_by>
         <sys_created_on>2018-11-16 16:38:46</sys_created_on>
         <sys_id>13f0eefddbf1e30012ffd4f3ce9619ec</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>chuck.tomasi</sys_updated_by>
-        <sys_updated_on>2018-11-21 19:49:25</sys_updated_on>
+        <sys_updated_on>2018-12-06 19:57:34</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </sys_app>
 </record_update>
