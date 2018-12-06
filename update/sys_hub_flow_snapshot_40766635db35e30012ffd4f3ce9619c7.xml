@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>finance_order_process</internal_name>
+        <label_cache>[{"name":"{{static.3bd5aef1db35e30012ffd4f3ce961941}}","label":"Finance Analysts","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"},{"name":"{{static.bcc52ef1db35e30012ffd4f3ce9619a9}}","label":"Finance Approvers","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"},{"name":"dc700aa6-92d3-40b4-8070-6239bf2e763b.approval_state","label":"2➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"subflow.price","label":"Input➛Price","reference":"","reference_display":"","type":"integer","base_type":"integer"},{"name":"subflow.car_name","label":"Input➛Car name","type":"string","base_type":"string"},{"name":"subflow.ssn","label":"Input➛SSN","type":"string","base_type":"string"},{"name":"64e219c9-2909-46e3-9b63-7ed0bf444bb8.table_name","label":"1➛Request Table","reference":"x_car_finance_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"64e219c9-2909-46e3-9b63-7ed0bf444bb8.record","label":"1➛Request Record","reference":"x_car_finance_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"a23e7f5c-30f4-46ae-be00-d87f6d5729c9.approval_state","label":"1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"422df258-92f8-4dfd-a9b0-927b2d2ed9a5.Record","label":"3➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"422df258-92f8-4dfd-a9b0-927b2d2ed9a5.Table","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"}]</label_cache>
+        <master>true</master>
+        <name>Finance Order Process</name>
+        <outputs/>
+        <parent_flow display_value="Finance Order Process">cad462f1db35e30012ffd4f3ce96190d</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:35</sys_created_on>
+        <sys_id>40766635db35e30012ffd4f3ce9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance Order Process</sys_name>
+        <sys_package display_value="Finance" source="x_car_finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_40766635db35e30012ffd4f3ce9619c7</sys_update_name>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:35</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=40766635db35e30012ffd4f3ce9619c7"/>
+    <sys_variable_value action="delete_multiple" query="document_key=40766635db35e30012ffd4f3ce9619c7"/>
+</record_update>

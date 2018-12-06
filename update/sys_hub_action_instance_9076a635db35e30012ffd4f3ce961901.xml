@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</action_type>
+        <action_type_parent display_value="Ask For Approval">bae0a1120b10030085c083eb37673a92</action_type_parent>
+        <comment/>
+        <compiled_snapshot>f8f2e9920b10030085c083eb37673abd</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Finance Order Process">40766635db35e30012ffd4f3ce9619c7</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>9076a635db35e30012ffd4f3ce961901</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Finance" source="x_car_finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_scope>
+        <sys_update_name>sys_hub_action_instance_9076a635db35e30012ffd4f3ce961901</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-11-21 19:47:43</sys_updated_on>
+        <ui_id>dc700aa6-92d3-40b4-8070-6239bf2e763b</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=9076a635db35e30012ffd4f3ce961901"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>9076a635db35e30012ffd4f3ce961901</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>1876a635db35e30012ffd4f3ce961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <value>approval_history</value>
+        <variable display_value="">c1f2e9920b10030085c083eb37673ae3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>9076a635db35e30012ffd4f3ce961901</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>5476a635db35e30012ffd4f3ce961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <value>approval</value>
+        <variable display_value="">01f2e9920b10030085c083eb37673ad8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>9076a635db35e30012ffd4f3ce961901</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>9c76a635db35e30012ffd4f3ce961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <value>x_car_finance_request</value>
+        <variable display_value="">bcf2e9920b10030085c083eb37673acc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>9076a635db35e30012ffd4f3ce961901</document_key>
+        <order>5</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>d876a635db35e30012ffd4f3ce961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <value/>
+        <variable display_value="">c5f2e9920b10030085c083eb37673af9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=9076a635db35e30012ffd4f3ce961901"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_conditions</field>
+        <id>9076a635db35e30012ffd4f3ce961901</id>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>1076a635db35e30012ffd4f3ce961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>ApprovesAnyG[{{static.bcc52ef1db35e30012ffd4f3ce9619a9}}]OrRejectsAnyG[{{static.bcc52ef1db35e30012ffd4f3ce9619a9}}]</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_field</field>
+        <id>9076a635db35e30012ffd4f3ce961901</id>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>1476a635db35e30012ffd4f3ce961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>due_date</field>
+        <id>9076a635db35e30012ffd4f3ce961901</id>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>5c76a635db35e30012ffd4f3ce961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>{"action":"none","date_type":"actual","date":"{{}}","duration":1,"duration_type":"days","schedule":"","schedule_label":""}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>journal_field</field>
+        <id>9076a635db35e30012ffd4f3ce961901</id>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>d476a635db35e30012ffd4f3ce961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>9076a635db35e30012ffd4f3ce961901</id>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>9876a635db35e30012ffd4f3ce961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value>{{64e219c9-2909-46e3-9b63-7ed0bf444bb8.record}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>9076a635db35e30012ffd4f3ce961901</id>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:36</sys_created_on>
+        <sys_id>d076a635db35e30012ffd4f3ce961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad.tilton</sys_updated_by>
+        <sys_updated_on>2018-11-16 17:02:36</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

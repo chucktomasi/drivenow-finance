@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Request" max_length="40" name="x_car_finance_request" sizeclass="1" type="collection">
+        <element label="Car name" max_length="255" name="car_name" type="string"/>
+        <element label="Price" max_length="20" name="price" type="currency"/>
+        <element label="SSN" max_length="40" name="ssn" type="string"/>
+    </element>
+</database>

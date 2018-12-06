@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_subflow_plan">
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"a476a635db35e30012ffd4f3ce961921","name":"plan"}}</plan>
+        <plan_id display_value="Finance Order Process">cad462f1db35e30012ffd4f3ce96190d</plan_id>
+        <snapshot>f6a8a5a7db352b005b3057935e961952</snapshot>
+        <sys_class_name>sys_flow_subflow_plan</sys_class_name>
+        <sys_created_by>brad.tilton</sys_created_by>
+        <sys_created_on>2018-11-16 17:02:37</sys_created_on>
+        <sys_id>a476a635db35e30012ffd4f3ce961921</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cad462f1db35e30012ffd4f3ce96190d</sys_name>
+        <sys_package display_value="Finance" source="x_car_finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_scope>
+        <sys_update_name>sys_flow_subflow_plan_a476a635db35e30012ffd4f3ce961921</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-11-21 19:47:44</sys_updated_on>
+    </sys_flow_subflow_plan>
+</record_update>
