@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_subflow_plan">
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>com.snc.process_flow.engine.ProcessPlan@d55fa2</plan>
+        <plan_id display_value="Update Car Order: Reject">355b421cdbd6e34012ffd4f3ce961932</plan_id>
+        <snapshot>ae9b0e1cdbd6e34012ffd4f3ce96198b</snapshot>
+        <sys_class_name>sys_flow_subflow_plan</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-06 19:45:51</sys_created_on>
+        <sys_id>7a9b0e1cdbd6e34012ffd4f3ce9619b6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>355b421cdbd6e34012ffd4f3ce961932</sys_name>
+        <sys_package display_value="Finance" source="x_car_finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_scope>
+        <sys_update_name>sys_flow_subflow_plan_7a9b0e1cdbd6e34012ffd4f3ce9619b6</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-06 19:52:07</sys_updated_on>
+    </sys_flow_subflow_plan>
+</record_update>

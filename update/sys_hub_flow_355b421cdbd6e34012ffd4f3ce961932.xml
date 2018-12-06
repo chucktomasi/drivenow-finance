@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>car_order_auto_reject</internal_name>
+        <label_cache>[{"name":"subflow.order","label":"Input➛Order","reference":"x_car_drivenow2_order","reference_display":"Order","type":"reference","base_type":"reference"},{"name":"5835ad52-fb95-43af-a378-c25ccc28ad80.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"5835ad52-fb95-43af-a378-c25ccc28ad80.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"}]</label_cache>
+        <latest_snapshot>ae9b0e1cdbd6e34012ffd4f3ce96198b</latest_snapshot>
+        <master_snapshot>ae9b0e1cdbd6e34012ffd4f3ce96198b</master_snapshot>
+        <name>Update Car Order: Reject</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-06 19:44:42</sys_created_on>
+        <sys_id>355b421cdbd6e34012ffd4f3ce961932</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Update Car Order: Reject</sys_name>
+        <sys_package display_value="Finance" source="x_car_finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance">13f0eefddbf1e30012ffd4f3ce9619ec</sys_scope>
+        <sys_update_name>sys_hub_flow_355b421cdbd6e34012ffd4f3ce961932</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-06 19:52:07</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=355b421cdbd6e34012ffd4f3ce961932"/>
+    <sys_variable_value action="delete_multiple" query="document_key=355b421cdbd6e34012ffd4f3ce961932"/>
+</record_update>
